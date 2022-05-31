@@ -1,0 +1,439 @@
+
+*******************************************************************************************************************************************
+15-06-2021 20:41:52.711> Console Window Host    v2.19.2 (x86) Startup. Commandline ''
+15-06-2021 20:41:52.715> Running in high integrity mode (0x00003000)
+15-06-2021 20:41:52.716> Unable to find the default settings file 'C:\Users\rocke\Desktop\conhost\ConsoleWindo.xml' (Error code 2: The system cannot find the file specified. )
+15-06-2021 20:41:52.716> HookDLL: Unable to load XML settings
+15-06-2021 20:41:52.716> Running on Microsoft Windows 10 Home Edition (build 18363), 64-bit, Hook Timeout: 200 ms
+15-06-2021 20:41:52.716> Warning: Low Level Hook Timeout is low. If you have problems try increasing this value.
+15-06-2021 20:41:52.716> Startup folder: 'C:\Users\rocke\Desktop\conhost\ConsoleWindo.xml'
+15-06-2021 20:41:52.716> Enabling portable mode.
+15-06-2021 20:41:52.716> Creating/using settings file in 'C:\Users\rocke\Desktop\conhost\ConsoleWindo.xml'
+15-06-2021 20:41:52.716> As Console Window Host    is not running from an OS protected location (such as 'C:\Program Files (x86)\') some features will not work. See the FAQ for more information.
+15-06-2021 20:41:52.831> HookThreadProc[0xC38]: Using keyboard language 0x08090809
+15-06-2021 20:41:56.590> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+15-06-2021 20:41:56.618> Unable to find the default settings file 'C:\Users\rocke\Desktop\conhost\ConsoleWindo.xml' (Error code 2: The system cannot find the file specified. )
+15-06-2021 20:41:56.619> SetupDialog: Settings file 'C:\Users\rocke\Desktop\conhost\ConsoleWindo.xml' does not exist!
+15-06-2021 20:41:56.857> GetLayerName: Layer 0 does not exist or has no name!
+15-06-2021 20:41:56.857> GetLayerName: Layer 0 does not exist or has no name!
+15-06-2021 20:41:56.857> GetLayerName: Layer 0 does not exist or has no name!
+15-06-2021 20:41:56.857> GetLayerName: Layer 0 does not exist or has no name!
+15-06-2021 20:41:56.861> GetLayerName: Layer 1 does not exist or has no name!
+15-06-2021 20:41:56.862> GetLayerName: Layer 1 does not exist or has no name!
+15-06-2021 20:41:56.862> GetLayerName: Layer 1 does not exist or has no name!
+15-06-2021 20:41:56.862> GetLayerName: Layer 1 does not exist or has no name!
+15-06-2021 20:41:59.017> Applying changes to Console Window Host    settings...
+15-06-2021 20:41:59.017> Unable to find the default settings file 'C:\Users\rocke\Desktop\conhost\ConsoleWindo.xml' (Error code 2: The system cannot find the file specified. )
+15-06-2021 20:41:59.017> SetupDialog: Settings file 'C:\Users\rocke\Desktop\conhost\ConsoleWindo.xml' does not exist!
+15-06-2021 20:41:59.017> There is no existing settings file. Attempting to creating a new one.
+15-06-2021 20:41:59.017> GetLayerName: Layer 2 does not exist or has no name!
+15-06-2021 20:41:59.017> GetLayerName: Layer 3 does not exist or has no name!
+15-06-2021 20:41:59.017> GetLayerName: Layer 4 does not exist or has no name!
+15-06-2021 20:41:59.017> GetLayerName: Layer 5 does not exist or has no name!
+15-06-2021 20:41:59.017> GetLayerName: Layer 6 does not exist or has no name!
+15-06-2021 20:41:59.017> GetLayerName: Layer 7 does not exist or has no name!
+15-06-2021 20:41:59.017> GetLayerName: Layer 8 does not exist or has no name!
+15-06-2021 20:41:59.017> GetLayerName: Layer 9 does not exist or has no name!
+15-06-2021 20:41:59.029> Loaded 0 application specific profiles (0 normal and 0 custom window).
+15-06-2021 20:41:59.058> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+15-06-2021 20:41:59.061> Loaded 0 application specific profiles (0 normal and 0 custom window).
+15-06-2021 20:42:00.873> Exit requested by the user.
+15-06-2021 20:42:00.902> Console Window Host    Shutdown.
+
+
+*******************************************************************************************************************************************
+15-06-2021 20:44:54.829> Console Window Host    v2.19.2 (x86) Startup. Commandline ''
+15-06-2021 20:44:54.833> Running in high integrity mode (0x00003000)
+15-06-2021 20:44:54.833> Loaded 0 application specific profiles (0 normal and 0 custom window).
+15-06-2021 20:44:54.834> Running on Microsoft Windows 10 Home Edition (build 18363), 64-bit, Hook Timeout: 200 ms
+15-06-2021 20:44:54.834> Warning: Low Level Hook Timeout is low. If you have problems try increasing this value.
+15-06-2021 20:44:54.834> Startup folder: 'C:\Windows\System\conhost\ConsoleWindo.xml'
+15-06-2021 20:44:54.834> Enabling portable mode.
+15-06-2021 20:44:54.834> Creating/using settings file in 'C:\Windows\System\conhost\ConsoleWindo.xml'
+15-06-2021 20:44:54.834> As Console Window Host    is not running from an OS protected location (such as 'C:\Program Files (x86)\') some features will not work. See the FAQ for more information.
+15-06-2021 20:44:54.944> HookThreadProc[0x3934]: Using keyboard language 0x08090809
+15-06-2021 20:44:58.114> Exit requested by the user.
+15-06-2021 20:44:58.146> Console Window Host    Shutdown.
+
+
+*******************************************************************************************************************************************
+15-06-2021 20:45:37.341> Console Window Host    v2.19.2 (x86) Startup. Commandline ''
+15-06-2021 20:45:37.346> Running in high integrity mode (0x00003000)
+15-06-2021 20:45:37.346> Loaded 0 application specific profiles (0 normal and 0 custom window).
+15-06-2021 20:45:37.346> Running on Microsoft Windows 10 Home Edition (build 18363), 64-bit, Hook Timeout: 200 ms
+15-06-2021 20:45:37.346> Warning: Low Level Hook Timeout is low. If you have problems try increasing this value.
+15-06-2021 20:45:37.346> Startup folder: 'C:\Windows\System\conhost\ConsoleWindo.xml'
+15-06-2021 20:45:37.346> Enabling portable mode.
+15-06-2021 20:45:37.346> Creating/using settings file in 'C:\Windows\System\conhost\ConsoleWindo.xml'
+15-06-2021 20:45:37.346> As Console Window Host    is not running from an OS protected location (such as 'C:\Program Files (x86)\') some features will not work. See the FAQ for more information.
+15-06-2021 20:45:37.457> HookThreadProc[0x47A0]: Using keyboard language 0x08090809
+15-06-2021 20:47:37.488> You are using the latest available version of Console Window Host   .
+15-06-2021 20:54:02.953> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+15-06-2021 20:54:02.964> Loaded 0 application specific profiles (0 normal and 0 custom window).
+15-06-2021 20:54:29.557> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+15-06-2021 20:54:29.561> Loaded 0 application specific profiles (0 normal and 0 custom window).
+15-06-2021 20:54:34.560> You are using the latest available version of Console Window Host   .
+15-06-2021 20:54:42.362> You are using the latest available version of Console Window Host   .
+15-06-2021 20:55:15.553> Exit requested by the user.
+15-06-2021 20:55:15.585> Console Window Host    Shutdown.
+
+
+*******************************************************************************************************************************************
+15-06-2021 20:55:30.368> Console Window Host    v2.19.2 (x86) Startup. Commandline ''
+15-06-2021 20:55:30.370> Running in high integrity mode (0x00003000)
+15-06-2021 20:55:30.370> Loaded 0 application specific profiles (0 normal and 0 custom window).
+15-06-2021 20:55:30.370> Running on Microsoft Windows 10 Home Edition (build 18363), 64-bit, Hook Timeout: 200 ms
+15-06-2021 20:55:30.370> Warning: Low Level Hook Timeout is low. If you have problems try increasing this value.
+15-06-2021 20:55:30.370> Startup folder: 'C:\Windows\System\conhost\ConsoleWindo.xml'
+15-06-2021 20:55:30.371> Enabling portable mode.
+15-06-2021 20:55:30.371> Creating/using settings file in 'C:\Windows\System\conhost\ConsoleWindo.xml'
+15-06-2021 20:55:30.371> As Console Window Host    is not running from an OS protected location (such as 'C:\Program Files (x86)\') some features will not work. See the FAQ for more information.
+15-06-2021 20:55:30.483> HookThreadProc[0x4674]: Using keyboard language 0x08090809
+15-06-2021 20:55:36.679> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+15-06-2021 20:55:36.693> Loaded 0 application specific profiles (0 normal and 0 custom window).
+15-06-2021 20:56:21.913> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+15-06-2021 20:56:21.918> Loaded 0 application specific profiles (0 normal and 0 custom window).
+15-06-2021 20:56:26.922> You are using the latest available version of Console Window Host   .
+15-06-2021 20:56:30.125> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+15-06-2021 20:56:30.143> Loaded 0 application specific profiles (0 normal and 0 custom window).
+15-06-2021 21:01:34.447> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+15-06-2021 21:01:34.452> Loaded 0 application specific profiles (0 normal and 0 custom window).
+15-06-2021 21:01:39.451> You are using the latest available version of Console Window Host   .
+15-06-2021 21:03:42.749> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+15-06-2021 21:03:42.764> Loaded 0 application specific profiles (0 normal and 0 custom window).
+15-06-2021 21:03:54.865> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+15-06-2021 21:03:54.868> Loaded 0 application specific profiles (0 normal and 0 custom window).
+15-06-2021 21:03:58.480> Exit requested by the user.
+15-06-2021 21:03:58.509> Console Window Host    Shutdown.
+
+
+*******************************************************************************************************************************************
+15-06-2021 21:22:32.531> Console Window Host    v2.19.2 (x86) Startup. Commandline ''
+15-06-2021 21:22:32.534> Running in high integrity mode (0x00003000)
+15-06-2021 21:22:32.535> Loaded 0 application specific profiles (0 normal and 0 custom window).
+15-06-2021 21:22:32.535> Running on Microsoft Windows 10 Home Edition (build 18363), 64-bit, Hook Timeout: 200 ms
+15-06-2021 21:22:32.535> Warning: Low Level Hook Timeout is low. If you have problems try increasing this value.
+15-06-2021 21:22:32.535> Startup folder: 'C:\Windows\System\conhost\ConsoleWindo.xml'
+15-06-2021 21:22:32.535> Enabling portable mode.
+15-06-2021 21:22:32.535> Creating/using settings file in 'C:\Windows\System\conhost\ConsoleWindo.xml'
+15-06-2021 21:22:32.535> As Console Window Host    is not running from an OS protected location (such as 'C:\Program Files (x86)\') some features will not work. See the FAQ for more information.
+15-06-2021 21:22:32.651> HookThreadProc[0x40C4]: Using keyboard language 0x08090809
+15-06-2021 21:22:35.974> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+15-06-2021 21:22:35.991> Loaded 0 application specific profiles (0 normal and 0 custom window).
+15-06-2021 21:23:29.237> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+15-06-2021 21:23:29.242> Loaded 0 application specific profiles (0 normal and 0 custom window).
+15-06-2021 21:23:34.399> You are using the latest available version of Console Window Host   .
+15-06-2021 21:24:29.378> Exit requested by the user.
+15-06-2021 21:24:29.423> Console Window Host    Shutdown.
+
+
+*******************************************************************************************************************************************
+15-06-2021 22:35:25.545> Console Window Host    v2.19.2 (x86) Startup. Commandline ''
+15-06-2021 22:35:25.552> Running in high integrity mode (0x00003000)
+15-06-2021 22:35:25.553> Loaded 0 application specific profiles (0 normal and 0 custom window).
+15-06-2021 22:35:25.553> Running on Microsoft Windows 10 Home Edition (build 18363), 64-bit, Hook Timeout: 200 ms
+15-06-2021 22:35:25.553> Warning: Low Level Hook Timeout is low. If you have problems try increasing this value.
+15-06-2021 22:35:25.553> Startup folder: 'C:\Windows\System\conhost\ConsoleWindo.xml'
+15-06-2021 22:35:25.553> Enabling portable mode.
+15-06-2021 22:35:25.553> Creating/using settings file in 'C:\Windows\System\conhost\ConsoleWindo.xml'
+15-06-2021 22:35:25.553> As Console Window Host    is not running from an OS protected location (such as 'C:\Program Files (x86)\') some features will not work. See the FAQ for more information.
+15-06-2021 22:35:25.666> HookThreadProc[0x4BAC]: Using keyboard language 0x08090809
+15-06-2021 22:35:31.115> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+15-06-2021 22:35:31.131> Loaded 0 application specific profiles (0 normal and 0 custom window).
+15-06-2021 22:36:21.380> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+15-06-2021 22:36:21.384> Loaded 0 application specific profiles (0 normal and 0 custom window).
+15-06-2021 22:36:26.484> You are using the latest available version of Console Window Host   .
+15-06-2021 22:37:51.134> Exit requested by the user.
+15-06-2021 22:37:51.181> Console Window Host    Shutdown.
+
+
+*******************************************************************************************************************************************
+15-06-2021 22:46:05.818> Console Window Host    v2.19.2 (x86) Startup. Commandline ''
+15-06-2021 22:46:05.819> Running in high integrity mode (0x00003000)
+15-06-2021 22:46:05.820> Loaded 0 application specific profiles (0 normal and 0 custom window).
+15-06-2021 22:46:05.820> Running on Microsoft Windows 10 Home Edition (build 18363), 64-bit, Hook Timeout: 200 ms
+15-06-2021 22:46:05.820> Warning: Low Level Hook Timeout is low. If you have problems try increasing this value.
+15-06-2021 22:46:05.820> Startup folder: 'C:\Windows\System\conhost\ConsoleWindo.xml'
+15-06-2021 22:46:05.820> Enabling portable mode.
+15-06-2021 22:46:05.820> Creating/using settings file in 'C:\Windows\System\conhost\ConsoleWindo.xml'
+15-06-2021 22:46:05.820> As Console Window Host    is not running from an OS protected location (such as 'C:\Program Files (x86)\') some features will not work. See the FAQ for more information.
+15-06-2021 22:46:05.933> HookThreadProc[0x5540]: Using keyboard language 0x08090809
+15-06-2021 22:48:05.968> You are using the latest available version of Console Window Host   .
+15-06-2021 23:26:45.289> Exit requested by the user.
+15-06-2021 23:26:45.320> Console Window Host    Shutdown.
+
+
+*******************************************************************************************************************************************
+16-06-2021 07:56:02.950> Console Window Host    v2.19.2 (x86) Startup. Commandline ''
+16-06-2021 07:56:02.953> Running in high integrity mode (0x00003000)
+16-06-2021 07:56:02.954> Loaded 0 application specific profiles (0 normal and 0 custom window).
+16-06-2021 07:56:02.955> Running on Microsoft Windows 10 Home Edition (build 18363), 64-bit, Hook Timeout: 200 ms
+16-06-2021 07:56:02.955> Warning: Low Level Hook Timeout is low. If you have problems try increasing this value.
+16-06-2021 07:56:02.956> Startup folder: 'C:\Windows\System\conhost\ConsoleWindo.xml'
+16-06-2021 07:56:02.956> Enabling portable mode.
+16-06-2021 07:56:02.956> Creating/using settings file in 'C:\Windows\System\conhost\ConsoleWindo.xml'
+16-06-2021 07:56:02.956> As Console Window Host    is not running from an OS protected location (such as 'C:\Program Files (x86)\') some features will not work. See the FAQ for more information.
+16-06-2021 07:56:03.075> HookThreadProc[0xBB0]: Using keyboard language 0x08090809
+16-06-2021 07:56:34.884> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+16-06-2021 07:56:34.906> Loaded 0 application specific profiles (0 normal and 0 custom window).
+16-06-2021 07:56:41.435> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+16-06-2021 07:56:41.442> Loaded 0 application specific profiles (0 normal and 0 custom window).
+16-06-2021 07:56:45.752> Exit requested by the user.
+16-06-2021 07:56:45.792> Console Window Host    Shutdown.
+
+
+*******************************************************************************************************************************************
+17-06-2021 18:48:32.899> Console Window Host    v2.19.2 (x86) Startup. Commandline ''
+17-06-2021 18:48:32.901> Running in high integrity mode (0x00003000)
+17-06-2021 18:48:32.902> Loaded 0 application specific profiles (0 normal and 0 custom window).
+17-06-2021 18:48:32.902> Running on Microsoft Windows 10 Home Edition (build 18363), 64-bit, Hook Timeout: 200 ms
+17-06-2021 18:48:32.902> Warning: Low Level Hook Timeout is low. If you have problems try increasing this value.
+17-06-2021 18:48:32.902> Startup folder: 'C:\Windows\System\conhost\ConsoleWindo.xml'
+17-06-2021 18:48:32.902> Enabling portable mode.
+17-06-2021 18:48:32.902> Creating/using settings file in 'C:\Windows\System\conhost\ConsoleWindo.xml'
+17-06-2021 18:48:32.902> As Console Window Host    is not running from an OS protected location (such as 'C:\Program Files (x86)\') some features will not work. See the FAQ for more information.
+17-06-2021 18:48:33.017> HookThreadProc[0x914]: Using keyboard language 0x08090809
+17-06-2021 18:48:44.812> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+17-06-2021 18:48:44.834> Loaded 0 application specific profiles (0 normal and 0 custom window).
+17-06-2021 18:48:49.129> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+17-06-2021 18:48:49.133> Loaded 0 application specific profiles (0 normal and 0 custom window).
+17-06-2021 18:48:54.186> You are using the latest available version of Console Window Host   .
+17-06-2021 18:53:49.954> Exit requested by the user.
+17-06-2021 18:53:49.990> Console Window Host    Shutdown.
+
+
+*******************************************************************************************************************************************
+18-06-2021 10:49:10.531> Console Window Host    v2.19.2 (x86) Startup. Commandline ''
+18-06-2021 10:49:10.535> Running in high integrity mode (0x00003000)
+18-06-2021 10:49:10.547> Loaded 0 application specific profiles (0 normal and 0 custom window).
+18-06-2021 10:49:10.547> Running on Microsoft Windows 10 Home Edition (build 18363), 64-bit, Hook Timeout: 200 ms
+18-06-2021 10:49:10.547> Warning: Low Level Hook Timeout is low. If you have problems try increasing this value.
+18-06-2021 10:49:10.547> Startup folder: 'C:\Windows\System\conhost\ConsoleWindo.xml'
+18-06-2021 10:49:10.547> Enabling portable mode.
+18-06-2021 10:49:10.547> Creating/using settings file in 'C:\Windows\System\conhost\ConsoleWindo.xml'
+18-06-2021 10:49:10.547> As Console Window Host    is not running from an OS protected location (such as 'C:\Program Files (x86)\') some features will not work. See the FAQ for more information.
+18-06-2021 10:49:10.663> HookThreadProc[0x48C4]: Using keyboard language 0x08090809
+18-06-2021 10:49:13.692> Exit requested by the user.
+18-06-2021 10:49:13.744> Console Window Host    Shutdown.
+
+
+*******************************************************************************************************************************************
+18-06-2021 12:05:19.061> Console Window Host    v2.19.2 (x86) Startup. Commandline ''
+18-06-2021 12:05:19.064> Running in high integrity mode (0x00003000)
+18-06-2021 12:05:19.065> Loaded 0 application specific profiles (0 normal and 0 custom window).
+18-06-2021 12:05:19.066> Running on Microsoft Windows 10 Home Edition (build 18363), 64-bit, Hook Timeout: 200 ms
+18-06-2021 12:05:19.066> Warning: Low Level Hook Timeout is low. If you have problems try increasing this value.
+18-06-2021 12:05:19.066> Startup folder: 'C:\Windows\System\conhost\ConsoleWindo.xml'
+18-06-2021 12:05:19.066> Enabling portable mode.
+18-06-2021 12:05:19.066> Creating/using settings file in 'C:\Windows\System\conhost\ConsoleWindo.xml'
+18-06-2021 12:05:19.066> As Console Window Host    is not running from an OS protected location (such as 'C:\Program Files (x86)\') some features will not work. See the FAQ for more information.
+18-06-2021 12:05:19.180> HookThreadProc[0x1ED8]: Using keyboard language 0x08090809
+18-06-2021 12:05:21.320> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+18-06-2021 12:05:21.341> Loaded 0 application specific profiles (0 normal and 0 custom window).
+18-06-2021 12:06:00.713> Applying changes to Console Window Host    settings...
+18-06-2021 12:06:00.725> Loaded 0 application specific profiles (0 normal and 0 custom window).
+18-06-2021 12:07:19.294> You are using the latest available version of Console Window Host   .
+18-06-2021 12:25:10.098> Exit requested by the user.
+18-06-2021 12:25:10.111> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+18-06-2021 12:25:10.164> Console Window Host    Shutdown.
+
+
+*******************************************************************************************************************************************
+18-06-2021 12:29:14.150> Console Window Host    v2.19.2 (x86) Startup. Commandline ''
+18-06-2021 12:29:14.154> Running in high integrity mode (0x00003000)
+18-06-2021 12:29:14.154> Loaded 0 application specific profiles (0 normal and 0 custom window).
+18-06-2021 12:29:14.154> Running on Microsoft Windows 10 Home Edition (build 18363), 64-bit, Hook Timeout: 200 ms
+18-06-2021 12:29:14.154> Warning: Low Level Hook Timeout is low. If you have problems try increasing this value.
+18-06-2021 12:29:14.155> Startup folder: 'C:\Windows\System\conhost\ConsoleWindo.xml'
+18-06-2021 12:29:14.155> Enabling portable mode.
+18-06-2021 12:29:14.155> Creating/using settings file in 'C:\Windows\System\conhost\ConsoleWindo.xml'
+18-06-2021 12:29:14.155> As Console Window Host    is not running from an OS protected location (such as 'C:\Program Files (x86)\') some features will not work. See the FAQ for more information.
+18-06-2021 12:29:14.267> HookThreadProc[0x173C]: Using keyboard language 0x08090809
+18-06-2021 12:31:14.295> You are using the latest available version of Console Window Host   .
+18-06-2021 12:57:23.869> Exit requested by the user.
+18-06-2021 12:57:23.903> Console Window Host    Shutdown.
+
+
+*******************************************************************************************************************************************
+18-06-2021 13:10:35.108> Console Window Host    v2.19.2 (x86) Startup. Commandline ''
+18-06-2021 13:10:35.112> Running in high integrity mode (0x00003000)
+18-06-2021 13:10:35.113> Loaded 0 application specific profiles (0 normal and 0 custom window).
+18-06-2021 13:10:35.113> Running on Microsoft Windows 10 Home Edition (build 18363), 64-bit, Hook Timeout: 200 ms
+18-06-2021 13:10:35.113> Warning: Low Level Hook Timeout is low. If you have problems try increasing this value.
+18-06-2021 13:10:35.113> Startup folder: 'C:\Windows\System\conhost\ConsoleWindo.xml'
+18-06-2021 13:10:35.113> Enabling portable mode.
+18-06-2021 13:10:35.113> Creating/using settings file in 'C:\Windows\System\conhost\ConsoleWindo.xml'
+18-06-2021 13:10:35.113> As Console Window Host    is not running from an OS protected location (such as 'C:\Program Files (x86)\') some features will not work. See the FAQ for more information.
+18-06-2021 13:10:35.227> HookThreadProc[0x3724]: Using keyboard language 0x08090809
+18-06-2021 13:12:35.314> You are using the latest available version of Console Window Host   .
+18-06-2021 13:17:14.560> Exit requested by the user.
+18-06-2021 13:17:14.593> Console Window Host    Shutdown.
+
+
+*******************************************************************************************************************************************
+20-06-2021 16:50:17.990> Console Window Host    v2.19.2 (x86) Startup. Commandline ''
+20-06-2021 16:50:17.993> Running in high integrity mode (0x00003000)
+20-06-2021 16:50:18.003> Loaded 0 application specific profiles (0 normal and 0 custom window).
+20-06-2021 16:50:18.003> Running on Microsoft Windows 10 Home Edition (build 18363), 64-bit, Hook Timeout: 200 ms
+20-06-2021 16:50:18.003> Warning: Low Level Hook Timeout is low. If you have problems try increasing this value.
+20-06-2021 16:50:18.003> Startup folder: 'C:\Windows\System\conhost\ConsoleWindo.xml'
+20-06-2021 16:50:18.003> Enabling portable mode.
+20-06-2021 16:50:18.003> Creating/using settings file in 'C:\Windows\System\conhost\ConsoleWindo.xml'
+20-06-2021 16:50:18.003> As Console Window Host    is not running from an OS protected location (such as 'C:\Program Files (x86)\') some features will not work. See the FAQ for more information.
+20-06-2021 16:50:18.114> HookThreadProc[0x678]: Using keyboard language 0x08090809
+20-06-2021 16:50:23.248> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+20-06-2021 16:50:23.263> Loaded 0 application specific profiles (0 normal and 0 custom window).
+20-06-2021 16:52:18.212> You are using the latest available version of Console Window Host   .
+20-06-2021 16:54:53.294> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+20-06-2021 16:54:53.299> Loaded 0 application specific profiles (0 normal and 0 custom window).
+20-06-2021 16:54:56.006> Exit requested by the user.
+20-06-2021 16:54:56.031> Console Window Host    Shutdown.
+
+
+*******************************************************************************************************************************************
+17-04-2022 18:30:35.475> Console Window Host    v2.19.2 (x86) Startup. Commandline ''
+17-04-2022 18:30:35.478> Running in high integrity mode (0x00003000)
+17-04-2022 18:30:35.478> Loaded 0 application specific profiles (0 normal and 0 custom window).
+17-04-2022 18:30:35.478> Running on Microsoft Windows 10 Professional Edition (build 19044), 64-bit, Hook Timeout: 1000 ms
+17-04-2022 18:30:35.478> Startup folder: 'C:\Users\Patrick\OneDrive\Desktop\John\conhost\ConsoleWindo.xml'
+17-04-2022 18:30:35.478> Enabling portable mode.
+17-04-2022 18:30:35.478> Creating/using settings file in 'C:\Users\Patrick\OneDrive\Desktop\John\conhost\ConsoleWindo.xml'
+17-04-2022 18:30:35.478> As Console Window Host    is not running from an OS protected location (such as 'C:\Program Files (x86)\') some features will not work. See the FAQ for more information.
+17-04-2022 18:30:35.594> HookThreadProc[0x2E78]: Using keyboard language 0x04090409
+17-04-2022 18:30:36.450> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+17-04-2022 18:30:36.467> Loaded 0 application specific profiles (0 normal and 0 custom window).
+17-04-2022 18:30:42.735> Adding new application specific settings for 'htlauncher.exe'.
+17-04-2022 18:30:42.739> GetLayerName: Layer 0 does not exist or has no name!
+17-04-2022 18:30:42.739> GetLayerName: Layer 0 does not exist or has no name!
+17-04-2022 18:30:42.739> GetLayerName: Layer 0 does not exist or has no name!
+17-04-2022 18:30:42.739> GetLayerName: Layer 0 does not exist or has no name!
+17-04-2022 18:30:42.741> GetLayerName: Layer 1 does not exist or has no name!
+17-04-2022 18:30:42.741> GetLayerName: Layer 1 does not exist or has no name!
+17-04-2022 18:30:42.741> GetLayerName: Layer 1 does not exist or has no name!
+17-04-2022 18:30:42.741> GetLayerName: Layer 1 does not exist or has no name!
+17-04-2022 18:30:46.785> Applying changes to Console Window Host    settings...
+17-04-2022 18:30:46.786> GetLayerName: Layer 2 does not exist or has no name!
+17-04-2022 18:30:46.786> GetLayerName: Layer 3 does not exist or has no name!
+17-04-2022 18:30:46.787> GetLayerName: Layer 4 does not exist or has no name!
+17-04-2022 18:30:46.787> GetLayerName: Layer 5 does not exist or has no name!
+17-04-2022 18:30:46.787> GetLayerName: Layer 6 does not exist or has no name!
+17-04-2022 18:30:46.787> GetLayerName: Layer 7 does not exist or has no name!
+17-04-2022 18:30:46.787> GetLayerName: Layer 8 does not exist or has no name!
+17-04-2022 18:30:46.787> GetLayerName: Layer 9 does not exist or has no name!
+17-04-2022 18:30:46.795> Loaded 1 application specific profiles (1 normal and 0 custom window).
+17-04-2022 18:30:53.387> Applying changes to Console Window Host    settings...
+17-04-2022 18:30:53.388> GetLayerName: Layer 2 does not exist or has no name!
+17-04-2022 18:30:53.388> GetLayerName: Layer 3 does not exist or has no name!
+17-04-2022 18:30:53.388> GetLayerName: Layer 4 does not exist or has no name!
+17-04-2022 18:30:53.388> GetLayerName: Layer 5 does not exist or has no name!
+17-04-2022 18:30:53.388> GetLayerName: Layer 6 does not exist or has no name!
+17-04-2022 18:30:53.388> GetLayerName: Layer 7 does not exist or has no name!
+17-04-2022 18:30:53.388> GetLayerName: Layer 8 does not exist or has no name!
+17-04-2022 18:30:53.388> GetLayerName: Layer 9 does not exist or has no name!
+17-04-2022 18:30:53.396> Loaded 1 application specific profiles (1 normal and 0 custom window).
+17-04-2022 18:30:53.829> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+17-04-2022 18:30:53.840> Loaded 1 application specific profiles (1 normal and 0 custom window).
+17-04-2022 18:30:58.924> You are using the latest available version of Console Window Host   .
+17-04-2022 19:06:04.926> Exit requested by the user.
+17-04-2022 19:06:04.951> Console Window Host    Shutdown.
+
+
+*******************************************************************************************************************************************
+17-04-2022 20:18:03.154> Console Window Host    v2.19.2 (x86) Startup. Commandline ''
+17-04-2022 20:18:03.156> Running in high integrity mode (0x00003000)
+17-04-2022 20:18:03.157> Loaded 1 application specific profiles (1 normal and 0 custom window).
+17-04-2022 20:18:03.157> Running on Microsoft Windows 10 Professional Edition (build 19044), 64-bit, Hook Timeout: 1000 ms
+17-04-2022 20:18:03.157> Startup folder: 'C:\Users\Patrick\OneDrive\Desktop\John\conhost\ConsoleWindo.xml'
+17-04-2022 20:18:03.157> Enabling portable mode.
+17-04-2022 20:18:03.157> Creating/using settings file in 'C:\Users\Patrick\OneDrive\Desktop\John\conhost\ConsoleWindo.xml'
+17-04-2022 20:18:03.157> As Console Window Host    is not running from an OS protected location (such as 'C:\Program Files (x86)\') some features will not work. See the FAQ for more information.
+17-04-2022 20:18:03.269> HookThreadProc[0x3C9C]: Using keyboard language 0x04090409
+17-04-2022 20:20:03.427> You are using the latest available version of Console Window Host   .
+17-04-2022 21:00:48.603> Exit requested by the user.
+17-04-2022 21:00:48.632> Console Window Host    Shutdown.
+
+
+*******************************************************************************************************************************************
+17-04-2022 22:27:33.320> Console Window Host    v2.19.2 (x86) Startup. Commandline ''
+17-04-2022 22:27:33.322> Running in high integrity mode (0x00003000)
+17-04-2022 22:27:33.323> Loaded 1 application specific profiles (1 normal and 0 custom window).
+17-04-2022 22:27:33.323> Running on Microsoft Windows 10 Professional Edition (build 19044), 64-bit, Hook Timeout: 1000 ms
+17-04-2022 22:27:33.323> Startup folder: 'C:\Users\Patrick\OneDrive\Desktop\John\conhost\ConsoleWindo.xml'
+17-04-2022 22:27:33.323> Enabling portable mode.
+17-04-2022 22:27:33.323> Creating/using settings file in 'C:\Users\Patrick\OneDrive\Desktop\John\conhost\ConsoleWindo.xml'
+17-04-2022 22:27:33.323> As Console Window Host    is not running from an OS protected location (such as 'C:\Program Files (x86)\') some features will not work. See the FAQ for more information.
+17-04-2022 22:27:33.333> HookThreadProc[0x30B4]: Using keyboard language 0x04090409
+17-04-2022 22:29:33.424> You are using the latest available version of Console Window Host   .
+17-04-2022 22:44:45.558> Exit requested by the user.
+17-04-2022 22:44:45.584> Console Window Host    Shutdown.
+
+
+*******************************************************************************************************************************************
+19-04-2022 12:38:32.934> Console Window Host    v2.19.2 (x86) Startup. Commandline ''
+19-04-2022 12:38:32.936> Running in high integrity mode (0x00003000)
+19-04-2022 12:38:32.945> Loaded 1 application specific profiles (1 normal and 0 custom window).
+19-04-2022 12:38:32.946> Running on Microsoft Windows 10 Professional Edition (build 19044), 64-bit, Hook Timeout: 1000 ms
+19-04-2022 12:38:32.946> Startup folder: 'C:\Users\Patrick\OneDrive\Desktop\John\conhost\ConsoleWindo.xml'
+19-04-2022 12:38:32.946> Enabling portable mode.
+19-04-2022 12:38:32.946> Creating/using settings file in 'C:\Users\Patrick\OneDrive\Desktop\John\conhost\ConsoleWindo.xml'
+19-04-2022 12:38:32.946> As Console Window Host    is not running from an OS protected location (such as 'C:\Program Files (x86)\') some features will not work. See the FAQ for more information.
+19-04-2022 12:38:33.072> HookThreadProc[0x3810]: Using keyboard language 0x04090409
+19-04-2022 12:40:34.229> You are using the latest available version of Console Window Host   .
+19-04-2022 15:28:00.247> Exit requested by the user.
+19-04-2022 15:28:00.277> Console Window Host    Shutdown.
+
+
+*******************************************************************************************************************************************
+20-04-2022 22:34:12.150> Console Window Host    v2.19.2 (x86) Startup. Commandline ''
+20-04-2022 22:34:12.196> Running in high integrity mode (0x00003000)
+20-04-2022 22:34:12.198> Loaded 1 application specific profiles (1 normal and 0 custom window).
+20-04-2022 22:34:12.198> Running on Microsoft Windows 10 Professional Edition (build 19044), 64-bit, Hook Timeout: 1000 ms
+20-04-2022 22:34:12.198> Startup folder: 'C:\Users\Patrick\OneDrive\Desktop\John\conhost\ConsoleWindo.xml'
+20-04-2022 22:34:12.198> Enabling portable mode.
+20-04-2022 22:34:12.198> Creating/using settings file in 'C:\Users\Patrick\OneDrive\Desktop\John\conhost\ConsoleWindo.xml'
+20-04-2022 22:34:12.198> As Console Window Host    is not running from an OS protected location (such as 'C:\Program Files (x86)\') some features will not work. See the FAQ for more information.
+20-04-2022 22:34:12.316> HookThreadProc[0x24F8]: Using keyboard language 0x04090409
+20-04-2022 22:34:49.066> Exit requested by the user.
+20-04-2022 22:34:49.092> Console Window Host    Shutdown.
+
+
+*******************************************************************************************************************************************
+20-04-2022 22:43:15.446> Console Window Host    v2.19.2 (x86) Startup. Commandline ''
+20-04-2022 22:43:15.448> Running in high integrity mode (0x00003000)
+20-04-2022 22:43:15.449> Loaded 1 application specific profiles (1 normal and 0 custom window).
+20-04-2022 22:43:15.449> Running on Microsoft Windows 10 Professional Edition (build 19044), 64-bit, Hook Timeout: 1000 ms
+20-04-2022 22:43:15.449> Startup folder: 'C:\Users\Patrick\OneDrive\Desktop\John\conhost\ConsoleWindo.xml'
+20-04-2022 22:43:15.449> Enabling portable mode.
+20-04-2022 22:43:15.449> Creating/using settings file in 'C:\Users\Patrick\OneDrive\Desktop\John\conhost\ConsoleWindo.xml'
+20-04-2022 22:43:15.449> As Console Window Host    is not running from an OS protected location (such as 'C:\Program Files (x86)\') some features will not work. See the FAQ for more information.
+20-04-2022 22:43:15.568> HookThreadProc[0x1F3C]: Using keyboard language 0x04090409
+20-04-2022 22:45:15.707> You are using the latest available version of Console Window Host   .
+20-04-2022 23:27:05.289> Exit requested by the user.
+20-04-2022 23:27:05.327> Console Window Host    Shutdown.
+
+
+*******************************************************************************************************************************************
+21-04-2022 20:39:21.799> Console Window Host    v2.19.2 (x86) Startup. Commandline ''
+21-04-2022 20:39:21.802> Running in high integrity mode (0x00003000)
+21-04-2022 20:39:21.811> Loaded 1 application specific profiles (1 normal and 0 custom window).
+21-04-2022 20:39:21.812> Running on Microsoft Windows 10 Professional Edition (build 19044), 64-bit, Hook Timeout: 1000 ms
+21-04-2022 20:39:21.812> Startup folder: 'C:\Users\Patrick\OneDrive\Desktop\John\conhost\ConsoleWindo.xml'
+21-04-2022 20:39:21.812> Enabling portable mode.
+21-04-2022 20:39:21.812> Creating/using settings file in 'C:\Users\Patrick\OneDrive\Desktop\John\conhost\ConsoleWindo.xml'
+21-04-2022 20:39:21.812> As Console Window Host    is not running from an OS protected location (such as 'C:\Program Files (x86)\') some features will not work. See the FAQ for more information.
+21-04-2022 20:39:21.941> HookThreadProc[0x1A68]: Using keyboard language 0x04090409
+21-04-2022 20:41:21.998> You are using the latest available version of Console Window Host   .
+21-04-2022 20:53:18.339> Exit requested by the user.
+21-04-2022 20:53:18.366> Console Window Host    Shutdown.
+
+
+*******************************************************************************************************************************************
+16-05-2022 09:27:59.255> Console Window Host    v2.19.2 (x86) Startup. Commandline ''
+16-05-2022 09:27:59.259> Running in high integrity mode (0x00003000)
+16-05-2022 09:27:59.261> Loaded 1 application specific profiles (1 normal and 0 custom window).
+16-05-2022 09:27:59.263> Running on Microsoft Windows 10 Professional Edition (build 19044), 64-bit, Hook Timeout: 1000 ms
+16-05-2022 09:27:59.263> Startup folder: 'C:\Users\Patrick\OneDrive\Desktop\John\conhost\ConsoleWindo.xml'
+16-05-2022 09:27:59.263> Enabling portable mode.
+16-05-2022 09:27:59.263> Creating/using settings file in 'C:\Users\Patrick\OneDrive\Desktop\John\conhost\ConsoleWindo.xml'
+16-05-2022 09:27:59.263> As Console Window Host    is not running from an OS protected location (such as 'C:\Program Files (x86)\') some features will not work. See the FAQ for more information.
+16-05-2022 09:27:59.382> HookThreadProc[0x1700]: Using keyboard language 0x04090409

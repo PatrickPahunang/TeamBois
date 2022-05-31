@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <link href="homesec.css" rel="stylesheet">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home Security Notifier</title>
+</head>
+<body background="backg2.jpg" style="background-repeat:no-repeat; background-position: center; background-size: 100vw 102vh;" >
+    
+
+
+<div class="dashboardcontainer">
+
+
+    <div id="mySidebar" class="sidebar">
+        <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">x</a>
+
+        <img src="police avatar.jpg" alt="avatar" style="width: 10vw; height: 20vh; padding-top: 100px; border-radius: 50%; margin-left: 100px;">
+        <h1 style="text-align: center; color: white;">  Police Officer 1  </h1>  
+        <a href="index.html"> <input type="button" name="logout" id="logout" value="LOGOUT" style="margin-top:40vh ; height: 40px; width: 100px; margin-left: 2vw; margin-left: 100px;" class="logoutbutton" > </a> 
+      
+    
+    </div>
+      
+      <div id="main">
+        <button class="openbtn" onclick="openNav()" style="width: 5vw; height: 10vh; font-size:300%;">☰</button>  
+
+      </div>
+      
+      <script>
+      function openNav() {
+        document.getElementById("mySidebar").style.width = "20vw";
+        document.getElementById("main").style.marginLeft = "20vh";
+      }
+      
+      function closeNav() {
+        document.getElementById("mySidebar").style.width = "0";
+        document.getElementById("main").style.marginLeft= "0";
+      }
+      </script>
+
+
+<div class="dashboardcontent">
+
+
+    <div class="contentinformation">
+    
+       <h1> House Owner <Br>DENNIS JUGALBOT <BR>
+           123 SAMPLE STREET , SAMPLE BRGY EL SALVADOR CITY<br>
+           11 : 30 PM <BR>
+           DECEMBER 25 , 2030 <BR><br>
+
+
+           POLICE REPORT SENT BY OWNER<br>
+           Suspicious Activity inside home
+       </h1>
+       <h1 style="color: rgb(17, 17, 128) ; text-decoration: underline;"> gdrive.link/VasdWq1f123g </h1>
+ 
+      <a href="dashboardcontents.html"><input type="button" name="back" id="back" value="<--" style="margin-top:5vh ; height: 50px; width: 80px; margin-left: 2vw; ; margin-bottom: 40px;" class="backbutton"> </a>    
+    </div>
+
+</div>
+
+
+
+
+</div>
+
+
+
+
+
+
+
+</body>
+</html>
