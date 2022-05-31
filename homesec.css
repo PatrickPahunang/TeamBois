@@ -1,4 +1,10 @@
+.a{
+  font-family:'Courier New', Courier, monospace ;
+}
 
+.h{
+  font-family:'Courier New', Courier, monospace ;
+}
 
 .wholepagecontainer{
     width: auto;
@@ -176,7 +182,7 @@ border-radius: 20%;
 .contentviewer{
     width: 77vw;
     height: 10vh;
-    background-color: rgb(29, 233, 114);
+    background-color: rgb(214, 195, 20);
     border-width:2px;
     border-style:solid;
     border-color:black;
