@@ -154,7 +154,7 @@ border-radius: 20%;
     align-items: center;
     justify-content: center;
     background-color:white;
-    background: url("C:/Users/Patrick/OneDrive/Desktop/FRONT_END_APPDEV/notif_bell2.jpg");
+    background: url("C:/TeamBois-1/notif_bell2.jpg");
     background-size: 10vw 25vh;
     background-repeat: no-repeat;
 
@@ -162,7 +162,7 @@ border-radius: 20%;
 
 .dashboardnotif:hover{
 
-    background: url("C:/Users/Patrick/OneDrive/Desktop/FRONT_END_APPDEV/notif_bell2HOVER.jpg");
+    background: url("C:/TeamBois-1/notif_bell2HOVER.jpg");
     background-size: 10vw 25vh;
     background-repeat: no-repeat;
     border-radius: 10%
