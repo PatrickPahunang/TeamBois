@@ -64,7 +64,7 @@ border-radius: 20%;
   .sidebar a {
     padding: 8px 8px 8px 32px;
     text-decoration: none;
-    font-size: 25px;
+    font-size: 20px;
     color: #818181;
     display: block;
     transition: 0.3s;
@@ -147,25 +147,16 @@ border-radius: 20%;
 
 
 .dashboardnotif{
-    width: 10vw;
+    width: 13vw;
     height: 25vh; 
     border-radius: 10%;
     display: flex;
     align-items: center;
     justify-content: center;
     background-color:white;
-    background: url("C:/TeamBois-1/notif_bell2.jpg");
     background-size: 10vw 25vh;
     background-repeat: no-repeat;
 
-}
-
-.dashboardnotif:hover{
-
-    background: url("C:/TeamBois-1/notif_bell2HOVER.jpg");
-    background-size: 10vw 25vh;
-    background-repeat: no-repeat;
-    border-radius: 10%
 }
 
 
