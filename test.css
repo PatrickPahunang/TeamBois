@@ -41,20 +41,22 @@
     font-family: 'Courier New', Courier, monospace;
     
     
+    
   }
 
   .LOGINDIV{
-  background-color: rgb(164, 255, 255);
+  background-color: rgba(164, 255, 255,);
   width: 35%;
   height: 10%;
   color: white;
   
+    
 
   }
   
   .REGDIV{
- background-color: rgb(242, 252, 153);
- width: 35%;
+  background-color: rgb(242, 252, 153);
+  width: 35%;
   height: 10%;
   }
 
