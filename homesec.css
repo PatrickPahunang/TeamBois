@@ -168,23 +168,24 @@ transition: .3s;
 .content{
     width: 80vw;
     height: 90vh;
-    background-color:white;
+    background-color:rgba(255, 255, 255, 0.616);
     overflow-y:scroll;
-    border-radius: 4%;
+    border-radius: 1%;
 
 }
 
 .contentviewer{
     width: 69vw;
     height: 10vh;
-    background-color: rgb(214, 195, 20);
+    background-color: rgba(1, 4, 71, 0.89);
     border-width:2px;
     border-style:solid;
     border-color:black;
     margin: 20px;
     text-align: center;
-    color: #111;
-    border-radius: 20%;
+    color: white;
+    text-shadow: 3px 3px black;
+
 
 
 }
@@ -194,7 +195,7 @@ transition: .3s;
 .contentinformation{
     width: 80vw;
     height: 90vh;
-    background-color:white;
+    background-color:rgb(250, 179, 179);
     overflow-y:scroll;
     text-align: center;
     border-radius: 4%;

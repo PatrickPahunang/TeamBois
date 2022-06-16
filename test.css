@@ -1,0 +1,281 @@
+.a{
+    font-family:'Courier New', Courier, monospace ;
+    text-decoration: none;
+  }
+  
+  .h{
+    font-family:'Courier New', Courier, monospace ;
+  }
+  
+  .wholepagecontainer{
+      width: 98vw;
+      height: 98vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+  
+  
+  
+  }
+  
+.wholecontent{
+    width: 70vw;
+    height: 90vh;
+    padding-left: 600px;
+    padding-top: 150px;
+    
+  
+ 
+}
+
+
+
+
+
+  .login{
+    height: 75vh;
+    background-color: white;
+    width: 30%;
+    display: flex;
+    font-family: 'Courier New', Courier, monospace;
+    
+    
+  }
+
+  .LOGINDIV{
+  background-color: rgb(164, 255, 255);
+  width: 35%;
+  height: 10%;
+  color: white;
+  
+
+  }
+  
+  .REGDIV{
+ background-color: rgb(242, 252, 153);
+ width: 35%;
+  height: 10%;
+  }
+
+  .FORGOTDIV{
+    background-color: rgb(247, 121, 121);
+    width: 35%;
+    height: 10%;
+
+  }
+
+
+
+
+
+  .loginbutton{
+  background-color: rgb(247, 245, 133);
+  color: black;
+  border-color: rgb(247, 245, 133);
+  box-shadow: 0 5px #666;
+  border-radius: 20%;
+  transition: .3s;
+  
+  }
+  
+  .loginbutton:hover{
+      background-color:rgb(75, 74, 74);
+      color: white;
+      border-color: rgb(75, 74, 74);
+      border-radius: 20%;
+  }
+  
+  .loginbutton:active{
+      background-color: rgb(247, 245, 133);
+      box-shadow: 0 5px #666;
+      border-radius: 20%;
+      transform: translateY(8px);
+    }
+  
+  .dashboardcontainer{
+      width: 98vw;
+      height: 98vh;
+      display: flex;
+    
+  
+  }
+  
+  .sidebar {
+      height: 95%;
+      width: 0;
+      position: fixed;
+      z-index: 1;
+      top: 0;
+      left: 0;
+      background-color: rgb(2, 31, 105);
+      overflow-x: hidden;
+      transition: .7s;
+      padding-top: 60px;
+      
+    }
+    
+    .sidebar a {
+      padding: 8px 8px 8px 32px;
+      text-decoration: none;
+      font-size: 20px;
+      color: #818181;
+      display: block;
+      transition: .3s;
+  
+    }
+    
+    .sidebar a:hover {
+      color: #f1f1f1;
+    }
+    
+    .sidebar .closebtn {
+      position: absolute;
+      top: 0;
+      right: 25px;
+      font-size: 36px;
+      margin-left: 50px;
+    }
+    
+    .openbtn {
+      font-size: 20px;
+      cursor: pointer;
+      background-color: #111;
+      color: white;
+      padding: 10px 15px;
+      border: none;
+    }
+    
+    .openbtn:hover {
+      background-color: #444;
+    }
+    
+    #main {
+      transition: margin-left 1s;
+      padding: 16px;
+    }
+    
+    /* On smaller screens, where height is less than 450px, change the style of the sidenav (less padding and a smaller font size) */
+    @media screen and (max-height: 450px) {
+      .sidebar {padding-top: 15px;}
+      .sidebar a {font-size: 18px;}
+    }
+  
+  
+  
+  
+  
+  
+  
+  .logoutbutton{
+      background-color: rgb(255, 47, 47);
+      color: black;
+      border-color: rgb(255, 47, 47);
+      box-shadow: 0 5px #666;
+      border-radius: 20%;
+      transition: .3s;
+      
+      }
+      .logoutbutton:hover{
+      
+          background-color: rgb(75, 74, 74);
+          color: white;
+          border-color: rgb(75, 74, 74);
+          border-radius: 20%;
+      
+      }
+      
+      .logoutbutton:active{
+          background-color: rgb(255, 47, 47);
+          box-shadow: 0 5px #666;
+          border-radius: 20%;
+          transform: translateY(8px);
+        }
+      
+  .dashboardcontent{
+  
+      width: 90vw;
+      height: 98vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+  }
+  
+  
+  .dashboardnotif{
+      width: 13vw;
+      height: 25vh; 
+      border-radius: 10%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background-color:white;
+      background-size: 10vw 25vh;
+      background-repeat: no-repeat;
+  
+  }
+  
+  
+  
+  .content{
+      width: 80vw;
+      height: 90vh;
+      background-color:rgba(255, 255, 255, 0.616);
+      overflow-y:scroll;
+      border-radius: 1%;
+  
+  }
+  
+  .contentviewer{
+      width: 69vw;
+      height: 10vh;
+      background-color: rgba(1, 4, 71, 0.89);
+      border-width:2px;
+      border-style:solid;
+      border-color:black;
+      margin: 20px;
+      text-align: center;
+      color: white;
+      text-shadow: 3px 3px black;
+  
+  
+  
+  }
+  
+  
+  
+  .contentinformation{
+      width: 80vw;
+      height: 90vh;
+      background-color:rgb(250, 179, 179);
+      overflow-y:scroll;
+      text-align: center;
+      border-radius: 4%;
+  }
+  
+  .backbutton{
+  
+      background-color: rgb(253, 234, 63);
+      color: black;
+      border-color: rgb(246, 255, 127);
+      box-shadow: 0 5px #666;
+      border-radius: 20%;
+      transition: .3s;
+   
+      
+      }
+      .backbutton:hover{
+      
+          background-color: black;
+          color: white;
+          border-color: black;
+          border-radius: 20%;
+      
+      }
+  
+  .backbutton:active{
+       background-color: black;
+       box-shadow: 0 5px #666;
+       border-radius: 20%;
+       transform: translateY(8px);
+      }
